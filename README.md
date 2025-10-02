@@ -1,0 +1,12 @@
+<img width="1387" height="642" alt="Снимок экрана 2025-10-02 в 22 09 08" src="https://github.com/user-attachments/assets/8ed1ee91-f293-497c-8b15-149e0413a164" />
+<img width="1379" height="585" alt="Снимок экрана 2025-10-02 в 21 44 48" src="https://github.com/user-attachments/assets/e17001c0-771c-4499-b3d5-d1c14fcfcd51" />
+<img width="1372" height="626" alt="Снимок экрана 2025-10-02 в 22 31 50" src="https://github.com/user-attachments/assets/557df361-fe35-40ac-b605-a71732825ea8" />
+<img width="1375" height="583" alt="Снимок экрана 2025-10-02 в 22 30 27" src="https://github.com/user-attachments/assets/3e9423e7-7a60-4e38-9a4f-1e3f701939b3" />
+<img width="1385" height="460" alt="Снимок экрана 2025-10-02 в 22 25 11" src="https://github.com/user-attachments/assets/cf8bd58f-56a9-476d-bdb0-c5c1f4542851" />
+<img width="1378" height="561" alt="Снимок экрана 2025-10-02 в 22 24 40" src="https://github.com/user-attachments/assets/d823113d-1c33-4f17-ad6c-95ea8638b172" />
+<img width="1387" height="522" alt="Снимок экрана 2025-10-02 в 22 23 23" src="https://github.com/user-attachments/assets/1ea3ef1d-f2f8-47f1-a87c-770c1b1c1a82" />
+<img width="1381" height="460" alt="Снимок экрана 2025-10-02 в 22 21 26" src="https://github.com/user-attachments/assets/5c0f2b58-6aaa-49c9-9fba-84da357c4d5f" />
+<img width="1410" height="814" alt="Снимок экрана 2025-10-02 в 22 20 21" src="https://github.com/user-attachments/assets/d4dd2fab-cb2f-46d6-b28d-527efed34712" />
+<img width="1360" height="763" alt="Снимок экрана 2025-10-02 в 22 17 39" src="https://github.com/user-attachments/assets/27487bd1-22f4-4d1f-bc7b-b8dff3a6c7ce" />
+<img width="1440" height="815" alt="Снимок экрана 2025-10-02 в 22 16 22" src="https://github.com/user-attachments/assets/9fcf0852-c428-40fe-bfcd-b974aeeab02d" />
+<img width="1393" height="666" alt="Снимок экрана 2025-10-02 в 22 15 21" src="https://github.com/user-attachments/assets/9f0b28f8-f8a2-4913-9a95-379b0bbeb67d" />
