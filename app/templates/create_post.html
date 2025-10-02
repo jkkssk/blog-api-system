@@ -1,0 +1,23 @@
+{% extends "base.html" %}
+
+{% block title %}Новый пост{% endblock %}
+
+{% block content %}
+<h1>Создать новый пост</h1>
+<form method="post">
+    <div>
+        <label>ID автора:</label>
+        <input type="number" name="authorId" required>
+    </div>
+    <div>
+        <label>Заголовок:</label>
+        <input type="text" name="title" required>
+    </div>
+    <div>
+        <label>Содержание:</label>
+        <textarea name="content" rows="10" required></textarea>
+    </div>
+    <button type="submit" class="btn">Создать пост</button>
+    <a href="/" class="btn">Отмена</a>
+</form>
+{% endblock %}

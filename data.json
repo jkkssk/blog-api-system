@@ -1,0 +1,28 @@
+{
+  "users": {
+    "1": {
+      "id": 1,
+      "email": "user1@test.com",
+      "login": "user1",
+      "password": "123456",
+      "createdAt": "2025-10-02T11:46:03.431854",
+      "updatedAt": "2025-10-02T11:46:03.432019",
+      "following": [],
+      "followers": []
+    }
+  },
+  "posts": {
+    "1": {
+      "id": 1,
+      "authorId": 1,
+      "title": "\u041f\u0435\u0440\u0432\u044b\u0439 \u043f\u043e\u0441\u0442",
+      "content": "\u0421\u043e\u0434\u0435\u0440\u0436\u0438\u043c\u043e\u0435 \u043f\u0435\u0440\u0432\u043e\u0433\u043e \u043f\u043e\u0441\u0442\u0430jhhj",
+      "createdAt": "2025-10-02T11:46:17.999027",
+      "updatedAt": "2025-10-02T11:56:14.110915",
+      "likes": [],
+      "views": 7
+    }
+  },
+  "next_user_id": 2,
+  "next_post_id": 2
+}

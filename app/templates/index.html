@@ -1,0 +1,26 @@
+{% extends "base.html" %}
+
+{% block title %}Главная - Блог{% endblock %}
+
+{% block content %}
+<h2>Все посты</h2>
+{% if posts %}
+    {% for post in posts %}
+    <div class="post">
+        <h3><a href="/posts/{{ post.id }}">{{ post.title }}</a></h3>
+        <p>{{ post.content[:200] }}{% if post.content|length > 200 %}...{% endif %}</p>
+        <small>
+            Автор: {{ post.authorId }} | 
+            {{ post.createdAt.strftime('%d.%m.%Y %H:%M') }} | 
+            👍 {{ post.likes|length }} | 
+            👁 {{ post.views }}
+        </small>
+        <div>
+            <a href="/posts/{{ post.id }}/edit" class="btn">Редактировать</a>
+        </div>
+    </div>
+    {% endfor %}
+{% else %}
+    <p>Пока нет постов. <a href="/posts/create">Создайте первый!</a></p>
+{% endif %}
+{% endblock %}
